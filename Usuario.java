@@ -5,6 +5,9 @@ private String nome;
 private char steve;
 private int auriane;
 
+private int codigo;
+
+
 public Usuario{
   
   
